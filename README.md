@@ -3,7 +3,7 @@
 
 ### API
 ![FastAPI](http://img.shields.io/badge/-FastAPI-26a699?style=flat-square&logo=fastapi&logoColor=ffffff)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green)
 ![Flask](http://img.shields.io/badge/-Flask-3e4349?style=flat-square&logo=flask&logoColor=white)
 ![Docker](http://img.shields.io/badge/-Docker-007ACC?style=flat-square&logo=docker&logoColor=ffffff)
 
