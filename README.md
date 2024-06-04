@@ -1,4 +1,11 @@
-## Hi there 👋
+### Languages
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+
+### API
+![FastAPI](http://img.shields.io/badge/-FastAPI-26a699?style=flat-square&logo=fastapi&logoColor=ffffff)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Flask](http://img.shields.io/badge/-Flask-3e4349?style=flat-square&logo=flask&logoColor=white)
+![Docker](http://img.shields.io/badge/-Docker-007ACC?style=flat-square&logo=docker&logoColor=ffffff)
 
 <!--
 **ivanemoje/ivanemoje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
